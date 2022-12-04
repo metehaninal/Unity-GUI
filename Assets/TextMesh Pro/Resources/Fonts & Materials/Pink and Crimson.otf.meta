@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c26ef07983e1a214c8d07516e67e657d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Pink and Crimson
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9e87f7819f97f704084bc69f91e5d85a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
